@@ -1,0 +1,25 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "分享文档",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan89757/vuepress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan89757/vuepress/issues"
+  },
+  "homepage": "https://github.com/alan89757/vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
